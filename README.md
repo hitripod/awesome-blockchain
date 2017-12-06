@@ -69,6 +69,7 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 - [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC '16.
 - [Algorand The Efficient Public Ledger](https://arxiv.org/abs/1607.01341)
 - [Formal Verification of Smart Contracts](https://www.cs.umd.edu/~aseem/solidetherplas.pdf)
+- [GitHub - 0dayZh/bitcoin_developer_guide: 「Bitcoin Developer Guide」中文版](https://github.com/0dayZh/bitcoin_developer_guide)
 
 ## Acknowledgement: Awesome Awesomeness
 
