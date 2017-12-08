@@ -1,23 +1,84 @@
 # awesome-blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of blockchain services, especially focused on decentralized exchange protocol.
+
 More information please refer to: https://github.com/hitripod/awesome-blockchain/wiki
 
 ## Public Chain
 
-- EOS, Polkadot, Cadano, Dash, Aesternity, Hashgraph, IOTA
+### Exchange Related
 
-### Without Smart Contract
+- [COMIT NETWORK](http://www.comit.network/)
+- [Wanchain - Cross-Chain Smart Contracts with Privacy Protection](https://wanchain.org/)
+- [LIQUID | Financial Services on the Blockchain](https://liquid.plus/)
+- [TenX – Convert Spend Virtual Currencies. Anytime. Anywhere.](https://www.tenx.tech/)
+- [0x: The Protocol for Trading Tokens](https://0xproject.com/)
+- [KyberNetwork](https://kyber.network/)
+- [Loopring](https://loopring.org/)
+- [AIRSWAP](https://www.airswap.io/)
+- [OmiseGo](https://omisego.network/)
+- [block.one](https://block.one/)
+- [Bancor protocol](https://www.bancor.network/)
+- [NVO.IO](https://nvo.io/)
+- [Omega One: The smarter way to trade cryptocurrencies](https://omega.one)
+- [openANX - Open Transparent Decentralized Exchange](https://www.openanx.org/en)
+- [Shapeshift](https://shapeshift.io/)
+- [Edgeless](https://edgeless.io)
+- [DAO.Casino](https://dao.casino/)
+- [DMarket - Make Virtual Assets Real](https://dmarket.io/)
+- [BOSCOIN](http://boscoin.io)
+- [bisq-network/exchange: The decentralized bitcoin exchange](https://github.com/bisq-network/exchange)
+- [Game-changing blockchain casino technology - FunFair](https://funfair.io/)
+- [Bitcoin, FX and Digital Assets Trading App - Lykke | Blockchain wallet app for iOS and Android](https://www.lykke.com/)
+- [Waves Platform](https://wavesplatform.com/)
+- [Octoin.com](https://octoin.com/?utm_source=coinidol)
 
-- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+### Others
 
-### With Smart Contract
-
-- [Home · ethereum/wiki Wiki · GitHub](https://github.com/ethereum/wiki/wiki)
+- Without Smart Contract
+    - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+    - [aeternity | æternity Blockchain](https://www.aeternity.com)
+- With Smart Contract
+    - [Home · ethereum/wiki Wiki · GitHub](https://github.com/ethereum/wiki/wiki)
+    - [EOS.IO | Dawn is here ](https://eos.io/)
+- Interchain
+    - [Polkadot](https://polkadot.network/)
+    - [Internet of Blockchains - https://cosmos.network](https://github.com/cosmos/cosmos)
+    - [blockchain/standards.md at master · w3c/blockchain · GitHub](https://github.com/w3c/blockchain/blob/master/standards.md)
+        - Ethermint, Basecoin, Cosmos ETH hub/zone, Tendermint
+- Privacy
+    - [Zcash - All coins are created equal.](https://z.cash/)
+    - [Monero - secure, private, untraceable](https://getmonero.org/)
+- Consensus
+    - [Hashgraph](https://hashgraph.com/)
+    - [Tendermint](https://tendermint.com/)
+- Framework
+    - [CryptoNote - the next generation cryptocurrency](https://cryptonote.org/)
+- Storage
+    - [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
+    - [Storj.io](http://storj.io/) Decentralized Cloud Storage. Storj is based on blockchain technology and peer-to-peer protocols to provide the most secure, private, and encrypted cloud storage
+    - [Maidsafe](http://maidsafe.net/) SAFE (Secure Access For Everyone) Network, a new Secure way to access a world of existing apps where the security of your data is put above all else.
+    - [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
+    - [Lbry](http://lbry.io/) LBRY is a decentralized, censorship-resistant, open-source, peer-to-peer information marketplace and discovery protocol.
+    - [Filecoin](http://filecoin.io/) Filecoin is a data storage network and electronic currency based on Bitcoin.
+- Authentication
+    - [uPort: Self-Sovereign Identity](https://www.uport.me/)
+    - [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
+    - [bitauth](https://github.com/bitpay/bitauth) Authenticate with web services utilizing the same strategy as Bitcoin.
+- Misc
+    - [Dash Official Website | Dash Crypto Currency](https://www.dash.org/)
+    - [Cardano Hub - Home of the Ada cryptocurrency and technological platform.](https://www.cardanohub.org/en/home/)
+    - [IOTA - Next Generation Blockchain](https://iota.org/)
+    - [DFINITY - The Decentralized Cloud](https://dfinity.org/)
+    - [CoinHive cryptocurrency miner for node.js](https://github.com/cazala/coin-hive)
+    - [NEM – Distributed Ledger Technology (Blockchain)](https://nem.io/)
+    - [Nxt - The Blockchain Application Platform](https://nxtplatform.org/)
 
 ## Permission/Consortium Chain
 
-- Hyperledger
+- [Dragonchain | Dragonchain Architecture](https://dragonchain.github.io/architecture)
+- [Quorum: A permissioned implementation of Ethereum supporting data privacy](https://github.com/jpmorganchase/quorum)
+- [Hyperledger Blockchain Technologies for Business](http://hyperledger.org/)
 
 ## Private Chain
 
@@ -27,25 +88,6 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 - [Linux Foundation Blockchain](https://blockchain.linuxfoundation.org/) backed by IBM
 - [Applied Blockchain](http://appliedblockchain.com/) consulting company
 - [Openblockchain](https://github.com/openblockchain) Blockchain fabric code
-
-## Decentralize Exchange
-
-- Kyber, Loopring, Airswap, OmiseGO, Block.one, 0x, Bancor
-- COMMIT, Wanchain
-
-## Storage
-
-- [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
-- [Storj.io](http://storj.io/) Decentralized Cloud Storage. Storj is based on blockchain technology and peer-to-peer protocols to provide the most secure, private, and encrypted cloud storage
-- [Maidsafe](http://maidsafe.net/) SAFE (Secure Access For Everyone) Network, a new Secure way to access a world of existing apps where the security of your data is put above all else.
-- [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
-- [Lbry](http://lbry.io/) LBRY is a decentralized, censorship-resistant, open-source, peer-to-peer information marketplace and discovery protocol.
-- [Filecoin](http://filecoin.io/) Filecoin is a data storage network and electronic currency based on Bitcoin.
-
-## Authentication
-
-- [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
-- [bitauth](https://github.com/bitpay/bitauth) Authenticate with web services utilizing the same strategy as Bitcoin.
 
 ## Books
 
@@ -58,13 +100,12 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 
 ## Paper
 
-- **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf)**. Nakamoto S. '08.
-- **[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf). Nakamoto S. '08.
+- [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf). Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
 - [A next-generation smart contract and decentralized application platform](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf). Vitalik Buterin. '14.
 - [Ethereum: A secure decentralised generalised transaction ledger](http://gavwood.com/paper.pdf). Wood G. '14.
 - [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 - [Pricing via processing or combatting junk mail](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf). Dwork C, Naor M. '92.
-
 - [Pricing via processing or combatting junk mail](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf). Dwork C, Naor M. '92.
 - [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC '16.
 - [Algorand The Efficient Public Ledger](https://arxiv.org/abs/1607.01341)
@@ -75,8 +116,8 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 
 _A curated list of awesome lists._
 
-- [**Awesome**](https://github.com/sindresorhus/awesome) by Sindre Sorhus et al -- a curated list of awesome lists
-- [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) by Kenneth Reitz et al -- a guide to cryto-currencies and their algos
+- [Awesome](https://github.com/sindresorhus/awesome) by Sindre Sorhus et al -- a curated list of awesome lists
+- [Awesome Coins](https://github.com/kennethreitz/awesome-coins) by Kenneth Reitz et al -- a guide to cryto-currencies and their algos
 - [chaozh/awesome-blockchain: 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
 - [decrypto-org/blockchain-papers: A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
 - [coderplex/awesome-blockchain: A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex/awesome-blockchain)
