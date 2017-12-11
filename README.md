@@ -101,6 +101,8 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 ## Paper
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf). Nakamoto S. '08.
+- [Practical Byzantine Fault Tolerance
+and Proactive Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6725&rep=rep1&type=pdf)
 - [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf). Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
 - [A next-generation smart contract and decentralized application platform](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf). Vitalik Buterin. '14.
 - [Ethereum: A secure decentralised generalised transaction ledger](http://gavwood.com/paper.pdf). Wood G. '14.
