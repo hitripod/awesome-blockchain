@@ -112,7 +112,11 @@ and Proactive Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1
 - [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC '16.
 - [Algorand The Efficient Public Ledger](https://arxiv.org/abs/1607.01341)
 - [Formal Verification of Smart Contracts](https://www.cs.umd.edu/~aseem/solidetherplas.pdf)
-- [GitHub - 0dayZh/bitcoin_developer_guide: 「Bitcoin Developer Guide」中文版](https://github.com/0dayZh/bitcoin_developer_guide)
+- [Bitcoin Developer Guide 中文版](https://github.com/0dayZh/bitcoin_developer_guide)
+- [decrypto-org/blockchain-papers: A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
+- [Block chain bibliography](https://allquantor.at/blockchainbib/)
+- [CABRA - Comprehensive Academic Bitcoin Research Archive](https://cdecker.github.io/btcresearch/)
+- [区块链史上最全500份白皮书pdf 网盘打包下载](https://mp.weixin.qq.com/s/qfhrRqWze8KnwCzo3rK_pw)
 
 ## Acknowledgement: Awesome Awesomeness
 
@@ -121,7 +125,6 @@ _A curated list of awesome lists._
 - [Awesome](https://github.com/sindresorhus/awesome) by Sindre Sorhus et al -- a curated list of awesome lists
 - [Awesome Coins](https://github.com/kennethreitz/awesome-coins) by Kenneth Reitz et al -- a guide to cryto-currencies and their algos
 - [chaozh/awesome-blockchain: 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
-- [decrypto-org/blockchain-papers: A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
 - [coderplex/awesome-blockchain: A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex/awesome-blockchain)
 - [openblockchains/awesome-blockchains: A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips . Distributed is the new centralized.](https://github.com/openblockchains/awesome-blockchains)
 - [machinomy/awesome-non-financial-blockchain: Curated list of projects that build non-financial applications of blockchain](https://github.com/machinomy/awesome-non-financial-blockchain)
