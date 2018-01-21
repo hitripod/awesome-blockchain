@@ -32,6 +32,7 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 - [Bitcoin, FX and Digital Assets Trading App - Lykke | Blockchain wallet app for iOS and Android](https://www.lykke.com/)
 - [Waves Platform](https://wavesplatform.com/)
 - [Octoin.com](https://octoin.com/?utm_source=coinidol)
+- [ICON: Hyperconnect the World](https://icon.foundation)
 
 ### Others
 
@@ -41,17 +42,21 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 - With Smart Contract
     - [Home · ethereum/wiki Wiki · GitHub](https://github.com/ethereum/wiki/wiki)
     - [EOS.IO | Dawn is here ](https://eos.io/)
+    - [Achain - Smart Contract Platform](https://www.achain.com/)
 - Interchain
     - [Polkadot](https://polkadot.network/)
     - [Internet of Blockchains - https://cosmos.network](https://github.com/cosmos/cosmos)
     - [blockchain/standards.md at master · w3c/blockchain · GitHub](https://github.com/w3c/blockchain/blob/master/standards.md)
         - Ethermint, Basecoin, Cosmos ETH hub/zone, Tendermint
+    - [IOS | Decentralized Internet of Services Platform](https://iost.io/)
 - Privacy
     - [Zcash - All coins are created equal.](https://z.cash/)
     - [Monero - secure, private, untraceable](https://getmonero.org/)
 - Consensus
     - [Hashgraph](https://hashgraph.com/)
-    - [Tendermint](https://tendermint.com/)
+    - PoS
+        - [Tendermint](https://tendermint.com/)
+        - [Cardano Hub - Home of the Ada cryptocurrency and technological platform.](https://www.cardanohub.org/en/home/)
 - Framework
     - [CryptoNote - the next generation cryptocurrency](https://cryptonote.org/)
 - Storage
@@ -61,18 +66,22 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
     - [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
     - [Lbry](http://lbry.io/) LBRY is a decentralized, censorship-resistant, open-source, peer-to-peer information marketplace and discovery protocol.
     - [Filecoin](http://filecoin.io/) Filecoin is a data storage network and electronic currency based on Bitcoin.
+    - [VideoCoin](https://videocoin.io/)
+    - [Sia](https://sia.tech/)
 - Authentication
     - [uPort: Self-Sovereign Identity](https://www.uport.me/)
     - [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
     - [bitauth](https://github.com/bitpay/bitauth) Authenticate with web services utilizing the same strategy as Bitcoin.
 - Misc
+    - [rchain.coop](https://www.rchain.coop)
+    - [ArcBlock](https://www.arcblock.io/)
     - [Dash Official Website | Dash Crypto Currency](https://www.dash.org/)
-    - [Cardano Hub - Home of the Ada cryptocurrency and technological platform.](https://www.cardanohub.org/en/home/)
     - [IOTA - Next Generation Blockchain](https://iota.org/)
     - [DFINITY - The Decentralized Cloud](https://dfinity.org/)
     - [CoinHive cryptocurrency miner for node.js](https://github.com/cazala/coin-hive)
     - [NEM – Distributed Ledger Technology (Blockchain)](https://nem.io/)
     - [Nxt - The Blockchain Application Platform](https://nxtplatform.org/)
+    - [ENT: Global Entertainment Platform](http://entcash.com/)
 
 ## Permission/Consortium Chain
 
