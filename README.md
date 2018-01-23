@@ -109,6 +109,7 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 
 ## Paper
 
+- [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf). Nakamoto S. '08.
 - [Practical Byzantine Fault Tolerance
 and Proactive Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.6725&rep=rep1&type=pdf)
