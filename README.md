@@ -107,6 +107,11 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 - [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](http://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
 - [The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)
 
+### E-Books
+
+[Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
+[Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+
 ## Paper
 
 - [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
