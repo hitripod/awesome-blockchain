@@ -111,6 +111,7 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 
 [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+[Introduction · IOTA Guide and FAQ](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/content/)
 
 ## Paper
 
