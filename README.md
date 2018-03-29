@@ -149,6 +149,8 @@ _A curated list of awesome lists._
 - [igorbarinov/awesome-blockchain: Curated list of the bitcoin blockchain services](https://github.com/igorbarinov/awesome-blockchain)
     - Proof of existence, Timestamp software, Document Signing, SSL Certificates, Assets, Private Blockchain, Storage, Authentication, Social Communication, DNS, Marketplace, Energy Market, Internet of Things, Lightning Network
 - [GitHub - ChihChengLiang/Ethereum_study_guide: 學習 Ethereum 的指引](https://github.com/ChihChengLiang/Ethereum_study_guide)
+- [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
+- [BNC curated collection of technical and industry white papers](https://bravenewcoin.com/industry-resources/whitepapers/a-e/)
 
 ## Meta
 
