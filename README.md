@@ -151,6 +151,7 @@ _A curated list of awesome lists._
 - [GitHub - ChihChengLiang/Ethereum_study_guide: 學習 Ethereum 的指引](https://github.com/ChihChengLiang/Ethereum_study_guide)
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 - [BNC curated collection of technical and industry white papers](https://bravenewcoin.com/industry-resources/whitepapers/a-e/)
+- [coinpride/CryptoList: Curated collection of blockchain cryptocurrency resources.](https://github.com/coinpride/CryptoList)
 
 ## Meta
 
