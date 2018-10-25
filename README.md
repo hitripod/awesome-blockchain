@@ -152,6 +152,9 @@ _A curated list of awesome lists._
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 - [BNC curated collection of technical and industry white papers](https://bravenewcoin.com/industry-resources/whitepapers/a-e/)
 - [coinpride/CryptoList: Curated collection of blockchain cryptocurrency resources.](https://github.com/coinpride/CryptoList)
+- [区块链白皮书、书籍、交易所、币种、自媒体等资源汇总](https://github.com/dily3825002/awesome-blockchain)
+- [收集所有区块链(BlockChain)技术开发相关资料](https://github.com/chaozh/awesome-blockchain-cn/blob/master/README.md)
+- [A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
 
 ## Meta
 
