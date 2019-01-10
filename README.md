@@ -155,6 +155,9 @@ _A curated list of awesome lists._
 - [区块链白皮书、书籍、交易所、币种、自媒体等资源汇总](https://github.com/dily3825002/awesome-blockchain)
 - [收集所有区块链(BlockChain)技术开发相关资料](https://github.com/chaozh/awesome-blockchain-cn/blob/master/README.md)
 - [A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
+- Blockchain Digital Identity
+    - [Decentralized, Self-Sovereign, and Blockchain Identity resources](https://github.com/infominer33/awesome-decentralized-id)
+    - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
 
 ## Meta
 
