@@ -6,6 +6,8 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 
 ## Public Chain
 
+- [Blockchain Comparison](https://github.com/dexon-foundation/wiki/wiki/Blockchain-Comparison)
+  
 ### Exchange Related
 
 - [COMIT NETWORK](http://www.comit.network/)
