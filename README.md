@@ -21,6 +21,7 @@ More information please refer to: https://github.com/hitripod/awesome-blockchain
 
 ## Paper
 
+- [Blockchain and Distributed Ledger Protocols: a reading list](https://medium.com/@bhaskark7/blockchain-and-distributed-ledger-protocols-a-reading-list-3c00dfc66404)
 - [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf). Nakamoto S. '08.
 - [Practical Byzantine Fault Tolerance
