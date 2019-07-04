@@ -41,9 +41,12 @@ and Proactive Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1
 - [CABRA - Comprehensive Academic Bitcoin Research Archive](https://cdecker.github.io/btcresearch/)
 - [区块链史上最全500份白皮书pdf 网盘打包下载](https://mp.weixin.qq.com/s/qfhrRqWze8KnwCzo3rK_pw)
 
-## Free Courses
+## Free Courses / Knowledge Base
 
-- https://www.binance.vision/
+- [Binance Academy](https://www.binance.vision/)
+- [Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/modules/blockchain-basics)
+- [Bitcoin Glossary | Simple explanations of each part of bitcoin.](https://learnmeabitcoin.com/glossary/)
+- [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 ## Acknowledgement: Awesome Awesomeness
 
@@ -69,6 +72,7 @@ _A curated list of awesome lists._
 - Blockchain Digital Identity
     - [Decentralized, Self-Sovereign, and Blockchain Identity resources](https://github.com/infominer33/awesome-decentralized-id)
     - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
+- [xpfio/awesome-blockchain-visualisation: A curated list of Blockchain and Cryptocurrency Technologies visualisation.](https://github.com/xpfio/awesome-blockchain-visualisation)
 
 ---
 
