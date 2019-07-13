@@ -4,20 +4,37 @@ Curated list of blockchain services, especially focused on decentralized exchang
 
 More information please refer to: https://github.com/hitripod/awesome-blockchain/wiki
 
-## Books
+## Acknowledgement: Awesome Awesomeness
 
-- [Bitcoin and Cryptocurrency Technologies (Textbook)](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
-- [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](http://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133)
-- [Blockchain: Blueprint for a New Economy](http://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)
-- [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](http://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543)
-- [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](http://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
-- [The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)
+_A curated list of awesome lists._
 
-### E-Books
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- [A guide (for humans!) to cryto-currencies and their algos.](https://github.com/kennethreitz/awesome-coins)
+- [A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl.](https://github.com/openblockchains/awesome-blockchains)
+- [Curated list of projects that build non-financial applications of blockchain](https://github.com/machinomy/awesome-non-financial-blockchain)
+- [A collection of valuable resources for anyone starting to explore blockchain technologies](https://github.com/Blockchain-DC/awesome-blockchain)
+- [Curated list of the bitcoin blockchain services](https://github.com/igorbarinov/awesome-blockchain)
+- [Crypto Canon from a16z](https://a16z.com/2018/02/10/crypto-readings-resources/)
+- [BNC curated collection of technical and industry white papers](https://bravenewcoin.com/industry-resources/whitepapers/a-e/)
+- [CryptoList: Curated collection of blockchain cryptocurrency resources.](https://github.com/coinpride/CryptoList)
+- [Decentralized, Self-Sovereign, and Blockchain Identity resources](https://github.com/infominer33/awesome-decentralized-id)
+- [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
+- [A curated list of Blockchain and Cryptocurrency Technologies visualisation.](https://github.com/xpfio/awesome-blockchain-visualisation)
+- [Curated list of blockchain services and exchanges](https://github.com/imbaniac/awesome-blockchain)
+- [收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
+- [区块链白皮书、书籍、交易所、币种、自媒体等资源汇总](https://github.com/dily3825002/awesome-blockchain)
 
-[Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
-[Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
-[Introduction · IOTA Guide and FAQ](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/content/)
+## Free Courses / Knowledge Base
+
+- [Binance Academy](https://www.binance.vision/)
+- [Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/modules/blockchain-basics)
+- [Bitcoin Glossary | Simple explanations of each part of bitcoin.](https://learnmeabitcoin.com/glossary/)
+- [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [CS 251: Cryptocurrencies and blockchain technologies](https://cs251crypto.stanford.edu/18au-cs251/)
+- [A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex/awesome-blockchain)
+- [A collection of awesome blockchain articles. Good learning resources about blockchain.](https://github.com/hylinux1024/awesome-blockchain-articles)
+- [Curated list of resources for the development and applications of block chain.](https://github.com/yjjnls/awesome-blockchain)
+- [學習 Ethereum 的指引](https://github.com/ChihChengLiang/Ethereum_study_guide)
 
 ## Paper
 
@@ -41,38 +58,20 @@ and Proactive Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1
 - [CABRA - Comprehensive Academic Bitcoin Research Archive](https://cdecker.github.io/btcresearch/)
 - [区块链史上最全500份白皮书pdf 网盘打包下载](https://mp.weixin.qq.com/s/qfhrRqWze8KnwCzo3rK_pw)
 
-## Free Courses / Knowledge Base
+## Books
 
-- [Binance Academy](https://www.binance.vision/)
-- [Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/modules/blockchain-basics)
-- [Bitcoin Glossary | Simple explanations of each part of bitcoin.](https://learnmeabitcoin.com/glossary/)
-- [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [Bitcoin and Cryptocurrency Technologies (Textbook)](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
+- [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](http://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133)
+- [Blockchain: Blueprint for a New Economy](http://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)
+- [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](http://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543)
+- [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](http://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
+- [The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)
 
-## Acknowledgement: Awesome Awesomeness
+### E-Books
 
-_A curated list of awesome lists._
-
-- [Awesome](https://github.com/sindresorhus/awesome) by Sindre Sorhus et al -- a curated list of awesome lists
-- [Awesome Coins](https://github.com/kennethreitz/awesome-coins) by Kenneth Reitz et al -- a guide to cryto-currencies and their algos
-- [chaozh/awesome-blockchain: 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
-- [coderplex/awesome-blockchain: A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex/awesome-blockchain)
-- [openblockchains/awesome-blockchains: A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips . Distributed is the new centralized.](https://github.com/openblockchains/awesome-blockchains)
-- [machinomy/awesome-non-financial-blockchain: Curated list of projects that build non-financial applications of blockchain](https://github.com/machinomy/awesome-non-financial-blockchain)
-- [Blockchain-DC/awesome-blockchain: A collection of valuable resources for anyone starting to explore blockchain technologies](https://github.com/Blockchain-DC/awesome-blockchain)
-- [decrypto-org/blockchain-papers: A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
-- [igorbarinov/awesome-blockchain: Curated list of the bitcoin blockchain services](https://github.com/igorbarinov/awesome-blockchain)
-    - Proof of existence, Timestamp software, Document Signing, SSL Certificates, Assets, Private Blockchain, Storage, Authentication, Social Communication, DNS, Marketplace, Energy Market, Internet of Things, Lightning Network
-- [GitHub - ChihChengLiang/Ethereum_study_guide: 學習 Ethereum 的指引](https://github.com/ChihChengLiang/Ethereum_study_guide)
-- [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
-- [BNC curated collection of technical and industry white papers](https://bravenewcoin.com/industry-resources/whitepapers/a-e/)
-- [coinpride/CryptoList: Curated collection of blockchain cryptocurrency resources.](https://github.com/coinpride/CryptoList)
-- [区块链白皮书、书籍、交易所、币种、自媒体等资源汇总](https://github.com/dily3825002/awesome-blockchain)
-- [收集所有区块链(BlockChain)技术开发相关资料](https://github.com/chaozh/awesome-blockchain-cn/blob/master/README.md)
-- [A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
-- Blockchain Digital Identity
-    - [Decentralized, Self-Sovereign, and Blockchain Identity resources](https://github.com/infominer33/awesome-decentralized-id)
-    - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
-- [xpfio/awesome-blockchain-visualisation: A curated list of Blockchain and Cryptocurrency Technologies visualisation.](https://github.com/xpfio/awesome-blockchain-visualisation)
+- [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
+- [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+- [Introduction · IOTA Guide and FAQ](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/content/)
 
 ---
 
