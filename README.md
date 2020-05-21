@@ -23,6 +23,7 @@ _A curated list of awesome lists._
 - [Curated list of blockchain services and exchanges](https://github.com/imbaniac/awesome-blockchain)
 - [收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
 - [区块链白皮书、书籍、交易所、币种、自媒体等资源汇总](https://github.com/dily3825002/awesome-blockchain)
+- [Awesome Blockchain · 区块链技术导航-开发资源整理 ](https://wiki.learnblockchain.cn/)
 
 ## Free Courses / Knowledge Base
 
@@ -34,6 +35,7 @@ _A curated list of awesome lists._
 - [A curated list of awesome Blockchain, Bitcoin and Ethereum related resources](https://github.com/coderplex/awesome-blockchain)
 - [A collection of awesome blockchain articles. Good learning resources about blockchain.](https://github.com/hylinux1024/awesome-blockchain-articles)
 - [Curated list of resources for the development and applications of block chain.](https://github.com/yjjnls/awesome-blockchain)
+- [Learn How to Build a Crypto Company](https://a16z.com/crypto-startup-school)
 - [學習 Ethereum 的指引](https://github.com/ChihChengLiang/Ethereum_study_guide)
 
 ## Paper
