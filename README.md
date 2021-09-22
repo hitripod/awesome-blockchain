@@ -36,6 +36,8 @@ _A curated list of awesome lists._
 - [A collection of awesome blockchain articles. Good learning resources about blockchain.](https://github.com/hylinux1024/awesome-blockchain-articles)
 - [Curated list of resources for the development and applications of block chain.](https://github.com/yjjnls/awesome-blockchain)
 - [Learn How to Build a Crypto Company](https://a16z.com/crypto-startup-school)
+- [Blockchain and Money | Sloan School of Management | MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) 
+- [Decentralized Finance MOOC](https://defi-learning.org/)
 - [學習 Ethereum 的指引](https://github.com/ChihChengLiang/Ethereum_study_guide)
 
 ## Paper
