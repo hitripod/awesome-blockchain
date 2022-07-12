@@ -21,6 +21,7 @@ _A curated list of awesome lists._
 - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity)
 - [A curated list of Blockchain and Cryptocurrency Technologies visualisation.](https://github.com/xpfio/awesome-blockchain-visualisation)
 - [Curated list of blockchain services and exchanges](https://github.com/imbaniac/awesome-blockchain)
+- [DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
 - [区块链白皮书、书籍、交易所、币种、自媒体等资源汇总](https://github.com/dily3825002/awesome-blockchain)
 - [Awesome Blockchain · 区块链技术导航-开发资源整理 ](https://wiki.learnblockchain.cn/)
