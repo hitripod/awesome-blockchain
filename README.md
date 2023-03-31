@@ -144,6 +144,7 @@ and Proactive Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1
     - [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
     - [Lbry](http://lbry.io/) LBRY is a decentralized, censorship-resistant, open-source, peer-to-peer information marketplace and discovery protocol.
     - [Filecoin](http://filecoin.io/) Filecoin is a data storage network and electronic currency based on Bitcoin.
+    - [Polybase](https://polybase.xyz) Polybase is a privacy preserving decentralized database, built on zk-STARKs.
     - [VideoCoin](https://videocoin.io/)
     - [Sia](https://sia.tech/)
 - Authentication
